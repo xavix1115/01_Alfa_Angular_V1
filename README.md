@@ -1,4 +1,6 @@
-# AlfaAngularV1
+# AlfaAngularV1 
+
+inicio el  7/08/2020
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.4.
 
