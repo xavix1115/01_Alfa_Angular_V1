@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Alfa-AngularV1"
+    }
+  },
+  "defaultProject": "Alfa-AngularV1",
+  "cli": {
+    "analytics": "57d72cce-fcdb-4289-9297-e3ebf51d0639"
+  }
 }
